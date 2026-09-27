@@ -85,7 +85,7 @@ bank-customer-churn-analysis-powerbi/
 │
 ├── README.md
 ├── Banking_Customer_Churn_Analytics.pbix
-├── Banking_Customer_Churn_Report.pdf
+├── Bankchurn project reporting.pdf
 │
 └── screenshots/
     ├── dashboard-overview.png
